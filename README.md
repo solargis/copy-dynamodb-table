@@ -1,3 +1,5 @@
+Forked from: [enGMzizo/copy-dynamodb-table](https://github.com/enGMzizo/copy-dynamodb-table)
+
 Safe Copy Dynamodb Table
 ===================
 

@@ -1,5 +1,5 @@
 {
-  "name": "copy-dynamodb-table",
+  "name": "@solargis/copy-dynamodb-table",
   "version": "2.0.20",
   "description": "Copy Dynamodb table to another in the same or different zone , It is 100% safe , and speed depends on your destination table user defined write provisioned throughput",
   "keywords": [
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/enGMzizo/copy-dynamodb-table"
+    "url": "https://github.com/solargis/copy-dynamodb-table"
   },
   "author": "Ezzat @enGMzizo",
   "license": "ISC",

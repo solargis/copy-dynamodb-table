@@ -26,3 +26,5 @@ typings/
 .env
 .DS_Store
 test.js
+*.idea
+package-lock.json

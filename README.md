@@ -10,12 +10,12 @@ This module will allow you to copy data from one table to another using very sim
 
 ## Installation
 
-    npm i copy-dynamodb-table
+    npm i @solargis/copy-dynamodb-table
 
 ## Usage :
 
 ```js
-var copy = require('copy-dynamodb-table').copy
+var copy = require('@solargis/copy-dynamodb-table').copy
 
 copy({
     source: {
@@ -39,7 +39,7 @@ copy({
 ## Adding AWS Config :
 
 ```js
-var copy = require('copy-dynamodb-table').copy
+var copy = require('@solargis/copy-dynamodb-table').copy
 
 var globalAWSConfig = { // AWS Configuration object http://docs.aws.amazon.com/AWSJavaScriptSDK/latest/AWS/Config.html#constructor-property
   accessKeyId: 'AKID',
@@ -69,7 +69,7 @@ copy({
 ## AWS Config for each table ( cross region ) :
 
 ```js
-var copy = require('copy-dynamodb-table').copy
+var copy = require('@solargis/copy-dynamodb-table').copy
 
 var globalAWSConfig = { // AWS Configuration object http://docs.aws.amazon.com/AWSJavaScriptSDK/latest/AWS/Config.html#constructor-property
   accessKeyId: 'AKID',
@@ -127,6 +127,7 @@ copy({
 - [Floby](https://github.com/Floby)
 - [jermeo](https://github.com/jermeo)
 - [Simon Li](https://github.com/siutsin)
+- [Trungi](https://github.com/Trungi)
 
 ## License :
 
